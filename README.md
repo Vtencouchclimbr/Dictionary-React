@@ -11,10 +11,10 @@
 9. [Contributors](#contributors)
 ## Project Overview
 **Dictionary-React** is a react based application that allows a user to input a word and recieve the definition easily.
-## Video
-- [Walkthrough Video]()
 ## Deployed App
 - [Deployed App](https://dictionary-react-anderson.netlify.app/)
+## Video
+- [Walkthrough Video]()
 ## Features
 - **Input Field**: Input word to be fetched from an external API.
 - **Button**: Submit desired word.
