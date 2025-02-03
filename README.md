@@ -1,17 +1,20 @@
 # Dictionary-React
 ## Table of Contents
 1. [Project Overview](#project-overview)
-2. [Video](#video)
-3. [Features](#features)
-4. [Technologies Used](#technologies-used)
-5. [Setup Instructions](#setup-instructions)
-6. [API Endpoints](#api-endpoints)
-7. [Future Improvements](#future-improvements)
-8. [Contributors](#contributors)
+2. [Deployed App](#project-overview)
+3. [Video](#video)
+4. [Features](#features)
+5. [Technologies Used](#technologies-used)
+6. [Setup Instructions](#setup-instructions)
+7. [API Endpoints](#api-endpoints)
+8. [Future Improvements](#future-improvements)
+9. [Contributors](#contributors)
 ## Project Overview
 **Dictionary-React** is a react based application that allows a user to input a word and recieve the definition easily.
 ## Video
 - [Walkthrough Video]()
+## Deployed App
+- [Deployed App](https://dictionary-react-anderson.netlify.app/)
 ## Features
 - **Input Field**: Input word to be fetched from an external API.
 - **Button**: Submit desired word.
